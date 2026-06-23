@@ -1,0 +1,12 @@
+# Universe of tickers - format: TICKER.EXCHANGE
+# Examples: AAPL.US, MSFT.US, 3SIL.LSE
+AAPL.US
+MSFT.US
+GOOGL.US
+AMZN.US
+NVDA.US
+META.US
+TSLA.US
+JPM.US
+V.US
+JNJ.US
